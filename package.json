@@ -18,17 +18,17 @@
     "date-fns": "^2.9.0",
     "jxon": "^2.0.0-beta.5",
     "querystring": "0.2.0",
-    "request": "2.88.0",
+    "request": "github:hexelon/request#master",
     "request-debug": "0.2.0",
     "underscore": "1.12.1",
     "util": "0.10.3",
     "uuid": "^3.1.0"
   },
   "devDependencies": {
-    "mocha": "2.2.5",
-    "expect": "0.1.1",
     "async": "0.9.0",
     "bluebird": "2.9.25",
+    "expect": "0.1.1",
+    "mocha": "2.2.5",
     "ramda": "0.17.1"
   },
   "directories": {
